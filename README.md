@@ -13,7 +13,7 @@ We were asked to create a console app where:
 
 It was a simple application but I have applied most of the concepts that I have learned throughout the course like: 
 * Object Oriented Programming (OOP)
-* Control Statments
+* Control Statements
   * Classes 
   * Objects
   * Constructor 
@@ -31,7 +31,7 @@ You can find the course's curriculum [here](https://itsharks.co/c/mobile-app/cou
 
 I also want to mention that I was asked to create only one project but I was able to create 2 projects (You can find the other one 
 [here](https://github.com/HusseinSamy/Basic-Banking-System-Aug-2021)) while all 
-my fellows were struglling creating their first project and I was honored for being a top-notch student and discussed
+my fellows were struggling creating their first project and I was honored for being a top-notch student and discussed
 how I have built the project in front of all the class. 
 
 [Certificate](https://drive.google.com/file/d/1a_9aw045SCsSzfFTMgootj09EuZTcqeO/view?usp=sharing)
